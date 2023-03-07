@@ -1,5 +1,5 @@
 ### Hello World! 👾👾👻
-My name is Gabriel and currently I'm focused in mastering basics 
+Learning Node, express
 
 <!--
 **GabrielEduardoBrambilla/GabrielEduardoBrambilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
