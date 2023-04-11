@@ -1,8 +1,8 @@
 ### Hello World! 👾👾👻
 I'm currently learning react 
-[![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+</br>
+[![My Skills](https://skills.thijs.gg/icons?i=react, js, html, css)](https://skills.thijs.gg)
 
-<img height="20em" src="https://user-images.githubusercontent.com/55161971/231309333-a1d0d535-6935-4cfa-9411-f7ff5ffc50aa.png"/>
 
 <!--
 **GabrielEduardoBrambilla/GabrielEduardoBrambilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
