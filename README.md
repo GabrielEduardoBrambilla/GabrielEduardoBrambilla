@@ -1,7 +1,7 @@
 ### Hello World! 👾👾👻
 I'm currently learning react 
 </br>
-[![My Skills](https://skills.thijs.gg/icons?i=react, js, html, css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css)](https://skills.thijs.gg)
 
 
 <!--
