@@ -1,6 +1,6 @@
 ### Hello World! 👾👾👻
 I'm currently learning react 
-<img height="13em" src="https://user-images.githubusercontent.com/55161971/231309333-a1d0d535-6935-4cfa-9411-f7ff5ffc50aa.png"/>
+<img height="20em" src="https://user-images.githubusercontent.com/55161971/231309333-a1d0d535-6935-4cfa-9411-f7ff5ffc50aa.png"/>
 
 <!--
 **GabrielEduardoBrambilla/GabrielEduardoBrambilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
