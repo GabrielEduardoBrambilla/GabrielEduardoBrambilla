@@ -1,5 +1,5 @@
 ### Hello World! 👾👾👻
-I'm currently learning react \n
+I'm currently learning react
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css)](https://skills.thijs.gg)
 
