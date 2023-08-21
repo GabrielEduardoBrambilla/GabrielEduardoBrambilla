@@ -1,6 +1,5 @@
 ### Hello World! 👾👾👻
-I'm a front-end web developer and
-currently I'm learning react
+I'm a front-end web developer 
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css)](https://skills.thijs.gg)
 
