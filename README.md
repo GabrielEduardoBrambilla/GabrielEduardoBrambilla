@@ -1,7 +1,7 @@
 ### Hello World! 👾👾👻
-I'm a front-end web developer 
+I'm a web developer 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,c,typescript)](https://skills.thijs.gg)
 
 
 <!--
