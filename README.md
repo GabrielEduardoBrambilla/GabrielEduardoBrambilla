@@ -1,7 +1,10 @@
-### Hello World! 👾👾👻
-I'm a web developer 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,c,typescript)](https://skills.thijs.gg)
+Hi, I'm a front-end engineer graduated as an IT technician focused on web development. 
+I'm currently seeking a junior Front-end developer position in React while continuing to improve myself. My goal in the near future is to become a Fullstack developer in React and .NET.
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=react,typescript,js,c)](https://skills.thijs.gg)
 
 
 <!--
