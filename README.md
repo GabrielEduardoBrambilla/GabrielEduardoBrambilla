@@ -1,6 +1,6 @@
 
 Hi, I'm a front-end engineer graduated as an IT technician focused on web development. 
-I'm currently seeking a junior Front-end developer position in React while continuing to improve myself. My goal in the near future is to become a Fullstack developer in React and .NET.
+I'm currently seeking a Front-end developer position while continuing to improve myself. My goal in the near future is to become a Fullstack developer in React and .NET.
 
 
 
