@@ -1,6 +1,6 @@
 
 Hi, I'm a software engineer graduated as an IT technician focused on web development. 
-Main techs as Java SpringBoot and Next tailwind currently seeking a developer position while continuing to improve myself. My goal in the near future is to become a Fullstack developer in React and .NET.
+Main techs as Java SpringBoot and Next tailwind currently seeking a developer position while continuing to improve myself. My goal in the near future is to become a Fullstack developer in React and Java.
 
 
 
